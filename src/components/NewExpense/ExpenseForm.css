@@ -1,0 +1,80 @@
+label {
+    font-size: 15px;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+input {
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    border: none;
+    outline: none;
+    padding: 0.5rem;
+    width: 20rem;
+    max-width: 100%;
+}
+
+.new-expense__controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.new-expense__control {}
+
+.add-expense__control {
+    text-align: right;
+}
+
+button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #40005d;
+    background-color: #40005d;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+}
+
+.new-expense__actions {
+    text-align: right;
+}
+
+.NewExpense button:hover,
+.NewExpense button:active {
+    background-color: #510674;
+    border-color: #510674;
+}
+
+.NewExpense button.alternative {
+    color: #220131;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.NewExpense button.alternative:hover,
+.NewExpense button.alternative:active {
+    background-color: #ddb3f8;
+}
+
+.new-expense__actions {
+    display: inline-block;
+    margin: 20px 0;
+}
+
+.buttons {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+}
+
+.AddNew {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
