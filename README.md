@@ -20,17 +20,17 @@ After the dependencies are installed, you can access the application by navigati
 
 On the main page of the application, you can view your expenses in a chart display.
 
-<img src=".\publicReadme\main.png" alt="">
+<img src=".\public_readme/main.png" alt="">
 
 To add an expense, click on the "Add Expense" button. This will open a form where you can enter the title, date, and cost of your expense.
 
-<img src=".\publicReadme\newExpanse.png">
+<img src=".\public_readme/newExpanse.png">
 
 Once you've entered your expense information, click on the "Add Expense" button to save your expense.
 
 And you can see choose the year that you want to see your expanses at
 
-<img title="" src="./publicReadme/years.png" alt="">
+<img title="" src="./public_readme/years.png" alt="">
 
 # 
 
