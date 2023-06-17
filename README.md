@@ -6,7 +6,7 @@ Welcome to Expense Tracker, a single-page web application that helps you keep tr
 
 To run the project, please clone the repository using the following command:
 
-`git clone https://github.com/khaled-farahat/Expenses-Tracker.git`
+`git clone https://github.com/AbdelrahmanAshrafMohamedelsayed/Expenses.git`
 
 Then, navigate to the project directory and run the following commands to install the dependencies:
 
